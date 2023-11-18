@@ -7,5 +7,4 @@ environment:
   sdk: ^3.2.0
 
 dev_dependencies:
-  night_raven_insight:
-    path: ../
+  night_raven_insight: ^1.0.0
