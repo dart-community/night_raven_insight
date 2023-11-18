@@ -12,5 +12,5 @@ topics:
 environment:
   sdk: ^3.2.0
 
-dev_dependencies:
+dependencies:
   dart_flutter_team_lints: ^2.1.1
