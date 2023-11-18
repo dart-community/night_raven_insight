@@ -1,0 +1,16 @@
+name: night_raven_insight
+description: >-
+  An opinionated analysis configuration that aims to
+  enable insightful analysis of your packages.
+version: 1.0.0-wip
+repository: https://github.com/dart-community/night_raven_insight
+
+topics:
+  - analysis
+  - lints
+
+environment:
+  sdk: ^3.2.0
+
+dev_dependencies:
+  dart_flutter_team_lints: ^2.1.1
