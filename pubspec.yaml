@@ -2,7 +2,7 @@ name: night_raven_insight
 description: >-
   An opinionated analysis configuration that aims to
   enable insightful analysis of your packages.
-version: 2.0.0
+version: 2.0.1-wip
 repository: https://github.com/dart-community/night_raven_insight
 
 topics:
