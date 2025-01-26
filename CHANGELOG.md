@@ -1,6 +1,7 @@
 ## 2.0.1-wip
 
 - Work in progress release.
+- Remove deprecated `package_api` lint.
 
 ## 2.0.0
 

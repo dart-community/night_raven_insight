@@ -6,9 +6,6 @@ analyzer:
     strict-inference: true
     strict-raw-types: true
 
-code-style:
-  format: true
-
 linter:
   rules:
     - annotate_redeclares
@@ -30,7 +27,6 @@ linter:
     - no_runtimeType_toString
     - no_self_assignments
     - noop_primitive_operations
-    - package_api_docs
     - parameter_assignments
     - prefer_const_constructors
     - prefer_const_constructors_in_immutables
