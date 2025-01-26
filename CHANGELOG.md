@@ -1,4 +1,4 @@
-## 3.0.0-wip
+## 3.0.0
 
 - Require Dart 3.6.0 or later.
 - Add `use_truncating_division` lint.
