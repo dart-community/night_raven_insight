@@ -1,5 +1,6 @@
-## 2.0.1-wip
+## 3.0.0-wip
 
+- Require Dart 3.6.0 or later.
 - Work in progress release.
 - Remove deprecated `package_api` lint.
 
