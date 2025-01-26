@@ -1,7 +1,7 @@
 ## 3.0.0-wip
 
 - Require Dart 3.6.0 or later.
-- Work in progress release.
+- Add `use_truncating_division` lint.
 - Remove deprecated `package_api` lint.
 
 ## 2.0.0
