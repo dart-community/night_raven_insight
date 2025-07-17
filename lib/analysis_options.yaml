@@ -40,3 +40,4 @@ linter:
     - unnecessary_null_aware_operator_on_extension_on_nullable
     - use_enums
     - use_truncating_division
+    - use_null_aware_elements
