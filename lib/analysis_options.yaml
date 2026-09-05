@@ -9,7 +9,6 @@ analyzer:
 linter:
   rules:
     - annotate_redeclares
-    - avoid_private_typedef_functions
     - avoid_type_to_string
     - avoid_void_async
     - cancel_subscriptions
