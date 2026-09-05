@@ -1,4 +1,4 @@
-## 5.0.0-wip
+## 5.0.0
 
 - Require Dart 3.12 or later.
 - Add `simple_directive_paths` lint.
