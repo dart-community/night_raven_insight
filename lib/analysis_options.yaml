@@ -36,7 +36,11 @@ linter:
     - prefer_final_locals
     - prefer_if_elements_to_conditional_expressions
     - public_member_api_docs
+    - simple_directive_paths
+    - simplify_variable_pattern
+    - switch_on_type
     - unnecessary_breaks
     - unnecessary_null_aware_operator_on_extension_on_nullable
     - use_enums
     - use_truncating_division
+    - var_with_no_type_annotation

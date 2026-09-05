@@ -1,6 +1,9 @@
 ## 5.0.0-wip
 
 - Require Dart 3.12 or later.
+- Add `simple_directive_paths` lint.
+- Add `simplify_variable_pattern` lint.
+- Add `var_with_no_type_annotation` lint.
 
 ## 4.0.0
 
